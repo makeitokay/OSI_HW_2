@@ -43,6 +43,8 @@ gcc 4.c -lrt -lpthread
 
 Программа на 4 балла использует разделяемую память и семафоры POSIX.
 
+![1](https://user-images.githubusercontent.com/34311075/233860889-e5846b9a-595f-43ed-b89c-26f4696d82f7.png)
+
 ## 5 баллов
 
 ```bash
@@ -54,6 +56,8 @@ gcc 5.c -lrt -lpthread
 
 Программа на 5 баллов использует неименованные семафоры в разделяемой памяти POSIX.
 
+![2](https://user-images.githubusercontent.com/34311075/233860904-35c418ec-f3fc-41d6-94ad-252ae4c73b4f.png)
+
 ## 6 баллов
 
 ```bash
@@ -64,3 +68,5 @@ gcc 6.c -lrt -lpthread
 Алгоритм программы такой же, как в программе на 4 и 5 баллов.
 
 Программа на 6 баллов использует семафоры и разделяемую память UNIX SYSTEM V.
+
+![3](https://user-images.githubusercontent.com/34311075/233860912-50d0be3f-94e3-4962-b8b8-1a32e446f729.png)
